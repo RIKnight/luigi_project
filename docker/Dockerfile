@@ -1,5 +1,5 @@
 FROM python:3.7.3
-LABEL maintainer="Daniel Martin-Alacon <daniel@martinalarcon.org>"
+LABEL maintainer="Robert Knight <dataknight@zohomail.com>"
 WORKDIR /app
 RUN apt-get update && apt-get install -y python3-pip
 COPY requirements.txt .
