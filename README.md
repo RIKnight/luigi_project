@@ -83,7 +83,7 @@ There are three `.py` files within the [src/data_tasks](src/data_tasks) director
 make data
 ```
 
-Examine the contents of the [data\interim](data\interim) and [data\processed](data\processed) directories to see the interim and processed output of the pipeline.
+Examine the contents of the [data/interim](data/interim) and [data/processed](data/processed) directories to see the interim and processed output of the pipeline.
 
 
 <!-- PROJECT ORGANIZATION -->
